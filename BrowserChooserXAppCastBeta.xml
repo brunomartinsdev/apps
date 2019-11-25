@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Browser ChooserX's Changelog</title>
+        <link>https://bdevapps.com/downloads/BrowserChooserXAppCastBeta.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.4.3</title>
+            <sparkle:releaseNotesLink>
+                https://www.bdevapps.com/files/downloads/bcupdate.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Tue, 28 May 2019 12:20:11 +0000</pubDate>
+            <enclosure url="https://github.com/brunomartinsdev/apps/raw/master/Browser%20ChooserX.zip" sparkle:version="1.4.3" length="7689986" type="application/octet-stream" sparkle:dsaSignature="MCwCFGCCxdDgsjTePaDQ2W8NTRXG87+LAhQKVuhuFcvfAith0OxWPTm9e+wFHw==" />
+            <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
+        </item>
+        
+        
+    </channel>
+</rss>
