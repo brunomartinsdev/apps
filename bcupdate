@@ -1,3 +1,6 @@
+1.4.5
+- Fixed an issue on app startup when "Show Browser List" is enabled and the menu disappears briefly disappears.
+
 1.4.4
 - Small bug fixes.
  
