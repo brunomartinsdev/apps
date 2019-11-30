@@ -6,12 +6,12 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.4.5</title>
+            <title>Version 1.4.6</title>
             <sparkle:releaseNotesLink>
                 https://raw.githubusercontent.com/brunomartinsdev/apps/master/bcupdate
             </sparkle:releaseNotesLink>
-            <pubDate>Wed, 27 Nov 2019 1:10:11 +0000</pubDate>
-            <enclosure url="https://github.com/brunomartinsdev/apps/raw/master/Browser%20ChooserX.zip" sparkle:version="1.4.5" length="7582114" type="application/octet-stream" sparkle:dsaSignature="MCwCFFHyBxEu97sIJ7msvi9+bYtGSS2HAhRQhp+IdhE4tVv6osb6XeQdsByTYg==" />
+            <pubDate>Sat, 30 Nov 2019 10:10:11 +0000</pubDate>
+            <enclosure url="https://github.com/brunomartinsdev/apps/raw/master/Browser%20ChooserX.zip" sparkle:version="1.4.6" length="7582811" type="application/octet-stream" sparkle:dsaSignature="MC0CFQCxbOfPm0kdPrXqIEB5kMKjT05FigIUIS4pwCymvTYo/Yj3d4AAR4bUpf4=" />
             <sparkle:minimumSystemVersion>10.11</sparkle:minimumSystemVersion>
         </item>
 
