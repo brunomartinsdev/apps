@@ -1,3 +1,8 @@
+1.4.6
+- Fixed an issue when opening files with "Share Extension" on Finder.
+- Fixed an issue when opening urls from some native apps.
+- Removed question mark from menu bar when Browser ChooserX is not set as primary browser.
+
 1.4.5
 - Fixed an issue on app startup when "Show Browser List" is enabled and the menu disappears briefly.
 
